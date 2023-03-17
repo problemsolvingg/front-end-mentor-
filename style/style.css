@@ -96,17 +96,17 @@ ul {
 /* header */
 /* hero */
 .hero {
-    
+    padding-top: 50px;
+    padding-bottom: 50px;
     min-height: calc(100vh + 80px);
-    background: url("/images/bg-curve-desktop.svg") no-repeat bottom center;
+    background: url("images/bg-curve-desktop.svg") no-repeat bottom center;
     background-size: 100%;
 }
 .hero .container {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    
 }
 .hero .container > div {
     flex-basis: 50%;
