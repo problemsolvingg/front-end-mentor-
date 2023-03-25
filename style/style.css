@@ -98,7 +98,6 @@ ul {
 .hero {
     padding-top: 50px;
     padding-bottom: 50px;
-    min-height: calc(100vh + 80px);
     background: url("../images/bg-curve-desktop.svg") no-repeat bottom center;
     background-size: 100%;
 }
